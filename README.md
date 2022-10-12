@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/lucas-mendes-a7264522b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:lucasilveiramendes@gmail.com" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://bit.ly/3RYzTay" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+<a href="https://www.linkedin.com/in/lucas-mendes-a7264522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Ltavio&show_icons=true&theme=dracula" />
@@ -26,3 +27,5 @@ Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programad
 
 ### Contato:
 - email: lucasilveiramendes@gmail.com 
+
+![Snake animation](https://github.com/Ltavio/Ltavio/blob/output/github-contribution-grid-snake.svg)
