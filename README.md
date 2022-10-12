@@ -24,7 +24,5 @@
 
 Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programador melhor, atualmente estudando backend.
 
-### Contato:
-- email: lucasilveiramendes@gmail.com 
 
 ![Snake animation](https://github.com/Ltavio/Ltavio/blob/output/github-contribution-grid-snake.svg)
