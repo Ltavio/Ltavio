@@ -22,7 +22,8 @@
 <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programador melhor, com experiência de 5 meses na empresa Kenzie Academy como monitor frontend. Atualmente estudando backend, me aprofundando em Node.
+Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programador melhor.
+Sou desenvolvedor FullStack, buscando me realocar como desenvolvedor, tenho experiência em projetos em frontend e backend há +1 ano.
 
 
 ![Snake animation](https://github.com/Ltavio/Ltavio/blob/output/github-contribution-grid-snake.svg)
