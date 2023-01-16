@@ -23,7 +23,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programador melhor.
-Sou desenvolvedor FullStack, buscando me realocar como desenvolvedor, tenho experiência em projetos em frontend e backend há +1 ano.
+Sou desenvolvedor FullStack, buscando me realocar como desenvolvedor, tenho experiência em projetos em FRONTEND e BACKEND há +1 ano.
 
 
 ![Snake animation](https://github.com/Ltavio/Ltavio/blob/output/github-contribution-grid-snake.svg)
