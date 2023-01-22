@@ -4,7 +4,7 @@
 <a href="https://bit.ly/3RYzTay" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ltavio&show_icons=true&theme=radical" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ltavio&show_icons=true&theme=dracula" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltavio&layout=compact&theme=dracula" />
 </div>
 
