@@ -22,8 +22,7 @@
 <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, sempre estudando para cada vez me tornar um programador melhor.
-Sou desenvolvedor FullStack, buscando me realocar como desenvolvedor, tenho experiência em projetos em FRONTEND e BACKEND há +1 ano.
+Eu sou o Lucas Mendes, um desenvolvedor FULL-STACK com mais de 2 anos de experiência em projetos front-end e back-end. Iniciei minha carreira em 2021 e desde então tenho trabalhado em projetos de diversos tamanhos e complexidades. Sou apaixonado por criar interfaces de usuário atraentes e intuitivas, e tenho uma habilidade particular para deixar código limpo e eficiente, além de ter um apreço muito grande em trabalhar em resoluções de problemas nos códigos em projetos e ajudar a deixar mais limpo e acessível.
 
 
 ![Snake animation](https://github.com/Ltavio/Ltavio/blob/output/github-contribution-grid-snake.svg)
